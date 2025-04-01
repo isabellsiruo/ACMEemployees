@@ -1,4 +1,6 @@
-# Workshop Acme Employees 
+# Workshop Acme Employees
+
+A full stack application where I built the backend using Express and PostgreSQL to support an existing React frontend
 
 -Summary:
 -Used Express.js to build a RESTful API.
